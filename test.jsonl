@@ -1,0 +1,174 @@
+{
+  "took" : 2,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 160,
+    "max_score" : 1.0,
+    "hits" : [ {
+      "_index" : "columbusdata",
+      "_type" : "Police_Precincts",
+      "_id" : "AViBVs9o1DUTZO5bkc3c",
+      "_score" : 1.0,
+      "_source" : {
+        "GLOBALID" : "{6C83C82B-ACB4-4B18-B3A9-C7F83AC55881}",
+        "﻿OBJECTID" : 358,
+        "CREATEDATE" : "8/4/2014 8:54:25 AM",
+        "KEY_311" : 161,
+        "POL_PRECNT" : 1,
+        "SHAPEAREA" : 0,
+        "CREATEDBY" : "LMWaugh",
+        "SHAPELEN" : 0,
+        "POL_ZONE" : 1
+      }
+    }, {
+      "_index" : "columbusdata",
+      "_type" : "Police_Precincts",
+      "_id" : "AViBVs-41DUTZO5bkc3o",
+      "_score" : 1.0,
+      "_source" : {
+        "GLOBALID" : "{7FE89A09-FBDC-4DAE-876B-9822AD2C4C9B}",
+        "﻿OBJECTID" : 356,
+        "CREATEDATE" : "VERIFIED 11/25/2013",
+        "KEY_311" : 169,
+        "POL_PRECNT" : 9,
+        "SHAPEAREA" : 0,
+        "CREATEDBY" : "LMW",
+        "SHAPELEN" : 0,
+        "POL_ZONE" : 2
+      }
+    }, {
+      "_index" : "columbusdata",
+      "_type" : "Police_Precincts",
+      "_id" : "AViBVs-91DUTZO5bkc3p",
+      "_score" : 1.0,
+      "_source" : {
+        "GLOBALID" : "{13CB2B20-1FD4-4F25-A648-15F7C72B7F67}",
+        "﻿OBJECTID" : 347,
+        "CREATEDATE" : "7/29/2015 2:39:44 PM",
+        "KEY_311" : 166,
+        "POL_PRECNT" : 6,
+        "SHAPEAREA" : 0,
+        "CREATEDBY" : "LMWaugh",
+        "SHAPELEN" : 0,
+        "POL_ZONE" : 1
+      }
+    }, {
+      "_index" : "columbusdata",
+      "_type" : "Police_Precincts",
+      "_id" : "AViBVs_G1DUTZO5bkc3r",
+      "_score" : 1.0,
+      "_source" : {
+        "GLOBALID" : "{0DEAE69B-D9A9-415A-AC68-EC6972FEE4C5}",
+        "﻿OBJECTID" : 354,
+        "CREATEDATE" : "3/16/2015 7:28:04 AM",
+        "KEY_311" : 175,
+        "POL_PRECNT" : 15,
+        "SHAPEAREA" : 0,
+        "CREATEDBY" : "LMWaugh",
+        "SHAPELEN" : 0,
+        "POL_ZONE" : 3
+      }
+    }, {
+      "_index" : "columbusdata",
+      "_type" : "Police_Precincts",
+      "_id" : "AViBVs_L1DUTZO5bkc3s",
+      "_score" : 1.0,
+      "_source" : {
+        "GLOBALID" : "{DF6E7724-C8E8-4B92-BEFB-469584EF82A8}",
+        "﻿OBJECTID" : 350,
+        "CREATEDATE" : "VERIFIED 11/25/2013",
+        "KEY_311" : 165,
+        "POL_PRECNT" : 5,
+        "SHAPEAREA" : 0,
+        "CREATEDBY" : "LMW",
+        "SHAPELEN" : 0,
+        "POL_ZONE" : 4
+      }
+    }, {
+      "_index" : "columbusdata",
+      "_type" : "Police_Precincts",
+      "_id" : "AViBV1cs1DUTZO5bkdE7",
+      "_score" : 1.0,
+      "_source" : {
+        "GLOBALID" : "{651DC58E-C74D-4A93-BB49-2D60A2B6CAFF}",
+        "﻿OBJECTID" : 344,
+        "CREATEDATE" : "VERIFIED 11/25/2013",
+        "KEY_311" : 174,
+        "POL_PRECNT" : 14,
+        "SHAPEAREA" : 0,
+        "CREATEDBY" : "LMW",
+        "SHAPELEN" : 0,
+        "POL_ZONE" : 2
+      }
+    }, {
+      "_index" : "columbusdata",
+      "_type" : "Police_Precincts",
+      "_id" : "AViBV1c_1DUTZO5bkdE_",
+      "_score" : 1.0,
+      "_source" : {
+        "GLOBALID" : "{99C73B20-3CC0-4C7B-AA70-8D2F5C8F2057}",
+        "﻿OBJECTID" : 352,
+        "CREATEDATE" : "7/24/2014 8:29:18 AM",
+        "KEY_311" : 179,
+        "POL_PRECNT" : 19,
+        "SHAPEAREA" : 0,
+        "CREATEDBY" : "LMWaugh",
+        "SHAPELEN" : 0,
+        "POL_ZONE" : 3
+      }
+    }, {
+      "_index" : "columbusdata",
+      "_type" : "Police_Precincts",
+      "_id" : "AViBV1de1DUTZO5bkdFC",
+      "_score" : 1.0,
+      "_source" : {
+        "GLOBALID" : "{82984F8F-2210-4B71-B19A-5EFBCB5D4C0D}",
+        "﻿OBJECTID" : 355,
+        "CREATEDATE" : "2/24/2015 10:35:14 AM",
+        "KEY_311" : 170,
+        "POL_PRECNT" : 10,
+        "SHAPEAREA" : 0,
+        "CREATEDBY" : "LMWaugh",
+        "SHAPELEN" : 0,
+        "POL_ZONE" : 3
+      }
+    }, {
+      "_index" : "columbusdata",
+      "_type" : "Police_Precincts",
+      "_id" : "AViBV1eX1DUTZO5bkdFI",
+      "_score" : 1.0,
+      "_source" : {
+        "GLOBALID" : "{E91E1F14-001D-4463-869D-78256188466B}",
+        "﻿OBJECTID" : 342,
+        "CREATEDATE" : "VERIFIED 11/25/2013",
+        "KEY_311" : 163,
+        "POL_PRECNT" : 3,
+        "SHAPEAREA" : 0,
+        "CREATEDBY" : "LMW",
+        "SHAPELEN" : 0,
+        "POL_ZONE" : 4
+      }
+    }, {
+      "_index" : "columbusdata",
+      "_type" : "Police_Precincts",
+      "_id" : "AViBV1eq1DUTZO5bkdFM",
+      "_score" : 1.0,
+      "_source" : {
+        "GLOBALID" : "{0DEAE69B-D9A9-415A-AC68-EC6972FEE4C5}",
+        "﻿OBJECTID" : 354,
+        "CREATEDATE" : "3/16/2015 7:28:04 AM",
+        "KEY_311" : 175,
+        "POL_PRECNT" : 15,
+        "SHAPEAREA" : 0,
+        "CREATEDBY" : "LMWaugh",
+        "SHAPELEN" : 0,
+        "POL_ZONE" : 3
+      }
+    } ]
+  }
+}
