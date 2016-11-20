@@ -1,3 +1,4 @@
 # Hackathon
 
-blah
+Contains content of files from Hackathon
+
